@@ -21,8 +21,11 @@ public class NumLetras2_66136 {
    Scanner entrada = new Scanner(System.in);
         
         int nu=99;
+        
         System.out.println("Ingrese un numero de 0 al 99: ");
+        
         nu=entrada.nextInt();
+        
           switch (nu){
               case 0:
                   System.out.println("Cero");
@@ -237,7 +240,7 @@ public class NumLetras2_66136 {
                   case 70:
                   System.out.println("setenta");
                   break;
-                   case 71:
+                  case 71:
                   System.out.println("setenta y uno");
                   break;
                   case 72:
@@ -325,7 +328,7 @@ public class NumLetras2_66136 {
                   System.out.println("noventa y nueve");
                   break;
                   default:
-                     System.out.println("Indeterminados");
+                  System.out.println("Indeterminados");
           
           
           }
