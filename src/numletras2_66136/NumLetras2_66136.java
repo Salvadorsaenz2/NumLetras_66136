@@ -87,7 +87,7 @@ public class NumLetras2_66136 {
                   case 20:
                   System.out.println("veinte");
                   break;
-                   case 21:
+                  case 21:
                   System.out.println("veintiuno");
                   break;
                   case 22:
@@ -117,7 +117,7 @@ public class NumLetras2_66136 {
                   case 30:
                   System.out.println("treinta");
                   break;
-                   case 31:
+                  case 31:
                   System.out.println("treinta y uno");
                   break;
                   case 32:
@@ -147,7 +147,7 @@ public class NumLetras2_66136 {
                   case 40:
                   System.out.println("Cuarenta");
                   break;
-                   case 41:
+                  case 41:
                   System.out.println("Cuarenta y uno");
                   break;
                   case 42:
@@ -177,7 +177,7 @@ public class NumLetras2_66136 {
                   case 50:
                   System.out.println("cincuenta");
                   break;
-                   case 51:
+                  case 51:
                   System.out.println("cincuenta y uno");
                   break;
                   case 52:
@@ -207,7 +207,7 @@ public class NumLetras2_66136 {
                   case 60:
                   System.out.println("sesenta");
                   break;
-                   case 61:
+                  case 61:
                   System.out.println("sesenta y uno");
                   break;
                   case 62:
@@ -267,7 +267,7 @@ public class NumLetras2_66136 {
                   case 80:
                   System.out.println("ochenta");
                   break;
-                   case 81:
+                  case 81:
                   System.out.println("ochenta y uno");
                   break;
                   case 82:
@@ -297,7 +297,7 @@ public class NumLetras2_66136 {
                   case 90:
                   System.out.println("noventa");
                   break;
-                   case 91:
+                  case 91:
                   System.out.println("noventa y uno");
                   break;
                   case 92:
